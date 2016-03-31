@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>JsonToAEM - UI apps</comment>
+<entry key="createdBy">albertsaclot</entry>
+<entry key="name">jsontoaem.ui.apps</entry>
+<entry key="created">2016-03-31T15:44:30.460+1100</entry>
+<entry key="groupId">com.projects</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">myproject</entry>
+<entry key="description">UI apps package for JsonToAEM</entry>
+<entry key="artifactId">jsontoaem.ui.apps</entry>
+<entry key="path">/etc/packages/myproject/jsontoaem.ui.apps.zip</entry>
+</properties>

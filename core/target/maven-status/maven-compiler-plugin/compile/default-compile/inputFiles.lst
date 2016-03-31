@@ -1,0 +1,13 @@
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/utils/ComponentFactory.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/models/ImageComponent.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/models/TextComponent.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/utils/ConverterUtils.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/services/JsonToAEMConverterService.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/servlets/JsonToAEMServlet.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/utils/PagePropBuilder.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/models/ComponentTypeEnum.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/models/TitleComponent.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/models/TextImageComponent.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/models/IComponent.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/services/impls/JsonToAEMConverterServiceImpl.java
+/Users/albertsaclot/Repository/JsonToCreateAEMPage/core/src/main/java/com/projects/jsontoaem/core/package-info.java

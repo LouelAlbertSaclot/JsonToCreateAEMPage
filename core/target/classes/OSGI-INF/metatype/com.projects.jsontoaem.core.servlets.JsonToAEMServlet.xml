@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/com.projects.jsontoaem.core.servlets.JsonToAEMServlet">
+    <OCD id="com.projects.jsontoaem.core.servlets.JsonToAEMServlet" name="%com.projects.jsontoaem.core.servlets.JsonToAEMServlet.name" description="%com.projects.jsontoaem.core.servlets.JsonToAEMServlet.description"/>
+    <Designate pid="com.projects.jsontoaem.core.servlets.JsonToAEMServlet">
+        <Object ocdref="com.projects.jsontoaem.core.servlets.JsonToAEMServlet"/>
+    </Designate>
+</metatype:MetaData>

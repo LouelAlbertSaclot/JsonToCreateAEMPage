@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="com.projects.jsontoaem.core.servlets.JsonToAEMServlet">
+        <implementation class="com.projects.jsontoaem.core.servlets.JsonToAEMServlet"/>
+        <service servicefactory="false">
+            <provide interface="javax.servlet.Servlet"/>
+        </service>
+        <property name="sling.servlet.paths">
+            /bin/jsontoaem
+        </property>
+        <property name="sling.servlet.extensions">
+            html
+        </property>
+        <property name="sling.servlet.methods">
+            GET
+        </property>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="com.projects.jsontoaem.core.servlets.JsonToAEMServlet"/>
+        <reference name="service" interface="com.projects.jsontoaem.core.services.JsonToAEMConverterService" cardinality="1..1" policy="static" bind="bindService" unbind="unbindService"/>
+    </scr:component>
+</components>
